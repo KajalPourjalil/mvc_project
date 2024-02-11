@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "h:\\vscode\\mvc_project\\practice_mvc\\wwwroot\\css\\zephyr.css",
+      "PackagePath": "staticwebassets\\css\\zephyr.css"
+    },
+    {
       "Id": "h:\\vscode\\mvc_project\\practice_mvc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

@@ -13,8 +13,8 @@ namespace practice_mvc.Controllers
             {
                 Name = "Sherk"
             };
-            
-            return View(movie);
+
+            return View(movie);   
         }
     }
 }

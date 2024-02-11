@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pgCzzTwuEqBiEU/BcGEHYuvvumlVV8DGiKIZhJPIT1g=",
+  "Hash": "Z7cTyGRq9n1xb1l+Em+G8VyjzO0MUoCZdBULTiKuIqI=",
   "Source": "practice_mvc",
   "BasePath": "_content/practice_mvc",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "h:\\vscode\\mvc_project\\practice_mvc\\wwwroot\\css\\zephyr.css",
+      "SourceId": "practice_mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "h:\\vscode\\mvc_project\\practice_mvc\\wwwroot\\",
+      "BasePath": "_content/practice_mvc",
+      "RelativePath": "css/zephyr.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\zephyr.css"
     },
     {
       "Identity": "h:\\vscode\\mvc_project\\practice_mvc\\wwwroot\\favicon.ico",
