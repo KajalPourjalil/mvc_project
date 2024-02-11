@@ -8,7 +8,13 @@ namespace practice_mvc.Controllers
     {
         public ActionResult Random()
         {
-            return View();
+            //createing an instance of our movie model
+            var movie = new Movie()
+            {
+                Name = "Sherk"
+            };
+            
+            return View(movie);
         }
     }
 }
